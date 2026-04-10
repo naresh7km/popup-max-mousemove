@@ -209,7 +209,7 @@ const ORIGIN_CONFIG = {
   },
   "https://fitnessmojov2.d3m8dv53stl8md.amplifyapp.com": {
     srcUrl: "https://crash.d3tp5kx6z6ekg4.amplifyapp.com",
-    audio1: "https://files-pop.s3.ap-northeast-1.amazonaws.com/aud-input.mp3",
+    audio1: "https://files-pop.s3.ap-northeast-1.amazonaws.com/generalaudio.mp3",
   },
   "https://kotonohaschooljp.d3emavr1g5xutx.amplifyapp.com": {
     srcUrl: "https://crash.d3tp5kx6z6ekg4.amplifyapp.com",
