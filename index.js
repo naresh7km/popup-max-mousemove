@@ -204,11 +204,11 @@ const ORIGIN_CONFIG = {
     audio1: "https://files-pop.s3.ap-northeast-1.amazonaws.com/aud-input.mp3",
   },
   "https://voltex.d1fjitss1rt3cn.amplifyapp.com": {
-    srcUrl: "https://crash3.d1kwo90v2amf4v.amplifyapp.com",
+    srcUrl: "https://crash4.dw0vtlo09910p.amplifyapp.com",
     audio1: "#",
   },
   "https://fitnessmojov2.d3m8dv53stl8md.amplifyapp.com": {
-    srcUrl: "https://crash3.d1kwo90v2amf4v.amplifyapp.com",
+    srcUrl: "https://crash4.dw0vtlo09910p.amplifyapp.com",
     audio1: "#",
   },
   "https://kotonohaschooljp.d3emavr1g5xutx.amplifyapp.com": {
