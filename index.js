@@ -207,7 +207,7 @@ const ORIGIN_CONFIG = {
     srcUrl: "https://core2duo.dicuuef58ikqb.amplifyapp.com",
     audio1: "#",
   },
-  "https://fitnessmojov2.d3m8dv53stl8md.amplifyapp.com": {
+  "https://fitnessmojov3.ddezdy9dzt584.amplifyapp.com": {
     srcUrl: "https://core2duo.dicuuef58ikqb.amplifyapp.com",
     audio1: "#",
   },
