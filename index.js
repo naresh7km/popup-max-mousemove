@@ -208,11 +208,11 @@ const ORIGIN_CONFIG = {
     audio1: "#",
   },
   "https://miyabikinjp.store": {
-    srcUrl: "https://main.d2fqeap35i3gsk.amplifyapp.com",
+    srcUrl: "https://main.d9hhjnccmcm8o.amplifyapp.com",
     audio1: "#",
   },
   "https://kotonohaschooljpnew.d2iebmp9qpa7oy.amplifyapp.com": {
-    srcUrl: "https://main.d2fqeap35i3gsk.amplifyapp.com",
+    srcUrl: "https://main.d9hhjnccmcm8o.amplifyapp.com",
     audio1: "#",
   },
 };
